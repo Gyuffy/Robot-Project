@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/rs_camera/rs_camera.egg-info/PKG-INFO
+writing dependency_links to ../../build/rs_camera/rs_camera.egg-info/dependency_links.txt
+writing entry points to ../../build/rs_camera/rs_camera.egg-info/entry_points.txt
+writing requirements to ../../build/rs_camera/rs_camera.egg-info/requires.txt
+writing top-level names to ../../build/rs_camera/rs_camera.egg-info/top_level.txt
+reading manifest file '../../build/rs_camera/rs_camera.egg-info/SOURCES.txt'
+writing manifest file '../../build/rs_camera/rs_camera.egg-info/SOURCES.txt'
+running build
+running build_py
+copying rs_camera/image_publisher.py -> /home/ssafy/ros2_ws/build/rs_camera/build/lib/rs_camera
+running install
+running install_lib
+copying /home/ssafy/ros2_ws/build/rs_camera/build/lib/rs_camera/image_publisher.py -> /home/ssafy/ros2_ws/install/rs_camera/lib/python3.10/site-packages/rs_camera
+byte-compiling /home/ssafy/ros2_ws/install/rs_camera/lib/python3.10/site-packages/rs_camera/image_publisher.py to image_publisher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/ssafy/ros2_ws/install/rs_camera/lib/python3.10/site-packages/rs_camera-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/rs_camera/rs_camera.egg-info to /home/ssafy/ros2_ws/install/rs_camera/lib/python3.10/site-packages/rs_camera-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ssafy/ros2_ws/build/rs_camera/install.log'

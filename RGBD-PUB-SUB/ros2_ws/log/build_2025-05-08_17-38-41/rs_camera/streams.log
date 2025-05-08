@@ -1,0 +1,22 @@
+[0.359s] Invoking command in '/home/ssafy/ros2_ws/src/rs_camera': PYTHONPATH=/home/ssafy/ros2_ws/build/rs_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/ros2_ws/install/rs_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rs_camera build --build-base /home/ssafy/ros2_ws/build/rs_camera/build install --record /home/ssafy/ros2_ws/build/rs_camera/install.log --single-version-externally-managed install_data
+[0.500s] running egg_info
+[0.500s] writing ../../build/rs_camera/rs_camera.egg-info/PKG-INFO
+[0.501s] writing dependency_links to ../../build/rs_camera/rs_camera.egg-info/dependency_links.txt
+[0.501s] writing entry points to ../../build/rs_camera/rs_camera.egg-info/entry_points.txt
+[0.501s] writing requirements to ../../build/rs_camera/rs_camera.egg-info/requires.txt
+[0.501s] writing top-level names to ../../build/rs_camera/rs_camera.egg-info/top_level.txt
+[0.502s] reading manifest file '../../build/rs_camera/rs_camera.egg-info/SOURCES.txt'
+[0.502s] writing manifest file '../../build/rs_camera/rs_camera.egg-info/SOURCES.txt'
+[0.502s] running build
+[0.502s] running build_py
+[0.502s] running install
+[0.503s] running install_lib
+[0.503s] running install_data
+[0.503s] running install_egg_info
+[0.505s] removing '/home/ssafy/ros2_ws/install/rs_camera/lib/python3.10/site-packages/rs_camera-0.0.0-py3.10.egg-info' (and everything under it)
+[0.505s] Copying ../../build/rs_camera/rs_camera.egg-info to /home/ssafy/ros2_ws/install/rs_camera/lib/python3.10/site-packages/rs_camera-0.0.0-py3.10.egg-info
+[0.506s] running install_scripts
+[0.519s] Installing image_publisher script to /home/ssafy/ros2_ws/install/rs_camera/lib/rs_camera
+[0.519s] Installing image_subscriber script to /home/ssafy/ros2_ws/install/rs_camera/lib/rs_camera
+[0.519s] writing list of installed files to '/home/ssafy/ros2_ws/build/rs_camera/install.log'
+[0.534s] Invoked command in '/home/ssafy/ros2_ws/src/rs_camera' returned '0': PYTHONPATH=/home/ssafy/ros2_ws/build/rs_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/ros2_ws/install/rs_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rs_camera build --build-base /home/ssafy/ros2_ws/build/rs_camera/build install --record /home/ssafy/ros2_ws/build/rs_camera/install.log --single-version-externally-managed install_data
