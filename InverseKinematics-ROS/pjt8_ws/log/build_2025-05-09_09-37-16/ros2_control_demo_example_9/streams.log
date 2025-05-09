@@ -1,0 +1,85 @@
+[0.070s] Invoking command in '/home/ssafy/pjt8_ws/build/ros2_control_demo_example_9': AMENT_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:/home/ssafy/ros2_ws/install/rs_camera:/opt/ros/humble /usr/bin/cmake /home/ssafy/pjt8_ws/src/ros2_control_demos/example_9 -DCMAKE_INSTALL_PREFIX=/home/ssafy/pjt8_ws/install/ros2_control_demo_example_9
+[1.907s] -- The CXX compiler identification is GNU 11.4.0
+[1.908s] -- Detecting CXX compiler ABI info
+[1.908s] -- Detecting CXX compiler ABI info - done
+[1.908s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.908s] -- Detecting CXX compile features
+[1.908s] -- Detecting CXX compile features - done
+[1.908s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.908s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.908s] -- Found hardware_interface: 2.49.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[1.908s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.908s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.908s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.908s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.908s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.908s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.908s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.908s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.908s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.909s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.909s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.909s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.909s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[1.909s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.909s] -- Looking for C++ include pthread.h
+[1.909s] -- Looking for C++ include pthread.h - found
+[1.909s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.909s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.909s] -- Found Threads: TRUE  
+[1.909s] -- Found ament_cmake_pytest: 1.3.11 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[2.325s] -- Configuring done
+[2.353s] -- Generating done
+[2.359s] -- Build files have been written to: /home/ssafy/pjt8_ws/build/ros2_control_demo_example_9
+[2.376s] Invoked command in '/home/ssafy/pjt8_ws/build/ros2_control_demo_example_9' returned '0': AMENT_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:/home/ssafy/ros2_ws/install/rs_camera:/opt/ros/humble /usr/bin/cmake /home/ssafy/pjt8_ws/src/ros2_control_demos/example_9 -DCMAKE_INSTALL_PREFIX=/home/ssafy/pjt8_ws/install/ros2_control_demo_example_9
+[2.376s] Invoking command in '/home/ssafy/pjt8_ws/build/ros2_control_demo_example_9': AMENT_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:/home/ssafy/ros2_ws/install/rs_camera:/opt/ros/humble /usr/bin/cmake --build /home/ssafy/pjt8_ws/build/ros2_control_demo_example_9 -- -j20 -l20
+[2.431s] [ 50%] [32mBuilding CXX object CMakeFiles/ros2_control_demo_example_9.dir/hardware/rrbot.cpp.o[0m
+[6.544s] [100%] [32m[1mLinking CXX shared library libros2_control_demo_example_9.so[0m
+[6.672s] [100%] Built target ros2_control_demo_example_9
+[6.684s] Invoked command in '/home/ssafy/pjt8_ws/build/ros2_control_demo_example_9' returned '0': AMENT_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:/home/ssafy/ros2_ws/install/rs_camera:/opt/ros/humble /usr/bin/cmake --build /home/ssafy/pjt8_ws/build/ros2_control_demo_example_9 -- -j20 -l20
+[6.686s] Invoking command in '/home/ssafy/pjt8_ws/build/ros2_control_demo_example_9': AMENT_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:/home/ssafy/ros2_ws/install/rs_camera:/opt/ros/humble /usr/bin/cmake --install /home/ssafy/pjt8_ws/build/ros2_control_demo_example_9
+[6.695s] -- Install configuration: ""
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/ros2_control_demo_example_9.xml
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/include/ros2_control_demo_example_9
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/include/ros2_control_demo_example_9/ros2_control_demo_example_9
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/include/ros2_control_demo_example_9/ros2_control_demo_example_9/rrbot.hpp
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/launch
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/launch/view_robot.launch.py
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/ros2_control
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/ros2_control/rrbot.ros2_control.xacro
+[6.695s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/urdf
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/urdf/rrbot.urdf.xacro
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/gazebo
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/gazebo/rrbot.gazebo.xacro
+[6.696s] -- Up-to-date: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/launch
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/launch/rrbot.launch.py
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/launch/rrbot_gazebo.launch.py
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/launch/test_forward_position_controller.launch.py
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/config
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/config/rrbot_forward_position_publisher.yaml
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/config/rrbot_controllers.yaml
+[6.696s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/lib/libros2_control_demo_example_9.so
+[6.697s] -- Set runtime path of "/home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/lib/libros2_control_demo_example_9.so" to ""
+[6.698s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/environment/library_path.sh
+[6.698s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/environment/library_path.dsv
+[6.698s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ament_index/resource_index/package_run_dependencies/ros2_control_demo_example_9
+[6.698s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ament_index/resource_index/parent_prefix_path/ros2_control_demo_example_9
+[6.698s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/environment/ament_prefix_path.sh
+[6.699s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/environment/ament_prefix_path.dsv
+[6.699s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/environment/path.sh
+[6.699s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/environment/path.dsv
+[6.699s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/local_setup.bash
+[6.699s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/local_setup.sh
+[6.699s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/local_setup.zsh
+[6.699s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/local_setup.dsv
+[6.699s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/package.dsv
+[6.700s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ament_index/resource_index/packages/ros2_control_demo_example_9
+[6.700s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/ros2_control_demo_example_9
+[6.700s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/cmake/export_ros2_control_demo_example_9Export.cmake
+[6.700s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/cmake/export_ros2_control_demo_example_9Export-noconfig.cmake
+[6.700s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/cmake/ament_cmake_export_targets-extras.cmake
+[6.700s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.700s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/cmake/ros2_control_demo_example_9Config.cmake
+[6.701s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/cmake/ros2_control_demo_example_9Config-version.cmake
+[6.701s] -- Installing: /home/ssafy/pjt8_ws/install/ros2_control_demo_example_9/share/ros2_control_demo_example_9/package.xml
+[6.703s] Invoked command in '/home/ssafy/pjt8_ws/build/ros2_control_demo_example_9' returned '0': AMENT_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ssafy/pjt8_ws/install/ros2_control_demo_description:/home/ssafy/ros2_ws/install/rs_camera:/opt/ros/humble /usr/bin/cmake --install /home/ssafy/pjt8_ws/build/ros2_control_demo_example_9
